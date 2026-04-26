@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> ناري تزيد في هواك
+> كيف أعيش وأنا بهواك
+> ليلي يطول في استناك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
