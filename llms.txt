@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/a3mel-eih-b3eed-3annak-what-should-i-do-far-from-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: A3mel Eih B3eed 3annak – What Should I Do Far from You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
