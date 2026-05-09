@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - A3mel Eih B3eed 3annak – What Should I Do Far from You
+
+This log tracks the cryptographic history and versioning for the song **A3mel Eih B3eed 3annak – What Should I Do Far from You** (a3mel-eih-b3eed-3annak-what-should-i-do-far-from-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:28:12.826760 | `v1` | `10d29593cfa873d8d06036f3695e08a4c5c6e3742a62fa69c791f773185a5a48` | `8f91e72a1eb1a56df2d1f83fa9fa54a3d3605db56e3c6071bea495e6742e0784` | `2026-05-09_a3mel-eih-b3eed-3annak-what-should-i-do-far-from-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
